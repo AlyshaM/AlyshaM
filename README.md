@@ -1,10 +1,11 @@
 ### Hi there 👋 
 I'm doin' my best
 
+<!--
 - 🔭 I’m currently working on my computer science degree.
 - 🌱 I’m currently learning how to use github.
 - 😄 Pronouns: she/they
-
+-->
 <!--
 **AlyshaM/AlyshaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
